@@ -12,7 +12,7 @@ st.set_page_config(page_title="Cricket Analysis Chatbot", layout="wide", initial
 # ------------------------------------------------------------------------------
 # Load CSV
 # ------------------------------------------------------------------------------
-data_file = r"C:\Users\KIIT\Desktop\Advanced Programming\AP Project - Cricket analysis\cricket_statsnew2.csv"
+data_file = r"cricket_statsnew2.csv"
 if not os.path.exists(data_file):
     st.error(f"File '{data_file}' not found.")
     st.stop()
