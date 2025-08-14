@@ -8,7 +8,7 @@ Koustav Mohapatra
 Aryanshu Pattnaik 2229102,
 Gopal Chaurasia 2229114,
 Nikhil Singh 2229131
-FROM KIIT-DU, CSCE03
+FROM KIIT-DU, CSCE
 Abstract—— This project aims to develop a Player Performance Analysis System using to analyze cricketer performance data and identify the best playing XI for various cricket tournaments. The system uses LLM model to fetch data, processes it using Python (Pandas), and applies advanced statistical analysis techniques. Machine learning algorithms like K-means clustering are used to filter and identify top-performing players. Additionally, the project leverages a Large Language Model (LLM) for contextual analysis of player statistics, using Natural Language Processing (NLP) to gain deeper insights into player performance and health parameters. Through visualizations, the system enables users to make data-driven decisions for optimal team selection.
 Keywords—Player Performance, Matplotlib, Python, Pandas, Machine Learning, K-means Clustering, LLM, NLP, Cricket Analytics.
 1.Introduction
