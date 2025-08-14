@@ -4,7 +4,7 @@ Cricket data analysis with NLP based chat and quick explore options
 
 
 Player Performance Analysis
-Koustav Mohapatra 2229121
+Koustav Mohapatra 
 Aryanshu Pattnaik 2229102,
 Gopal Chaurasia 2229114,
 Nikhil Singh 2229131
